@@ -1,6 +1,11 @@
 # Reconocimiento de imagenes para Hackaton Innosoft
 ## Aplicación de redes neuronales convolucionales a el reconocimiento de enfermedades pulmonares en imagenes clinicas
 
+Debido al gran tamaño de los modelos y pesos, no he podido subirlos a Github en problemas de ultima hora. Sin embargo, puedes encontrarlos en la siguiente direccion de GDrive
+
+https://drive.google.com/drive/folders/1QssvhvUl3TH_Bc-9qD7e-jDyjnNK8sqo?usp=sharing
+
+
 ### Resultados
 
 Los resultados para este problema han sido variados en función de los hiperparametros usados. Para concretar, todos los resultados han sidos llevados a cabo usando la tecnica de data augmentation, la cual favorece a la fase de entrenamiento del modelo diversificando la cantidad de imagenes con las que entrena.
